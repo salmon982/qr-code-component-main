@@ -9,18 +9,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author)
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot-desktop.png)
-![](./screenshot-mobile.png)
+![](./screenshot-desktop.jpg)
+![](./screenshot-mobile.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Page Using Flexbox](https://www.frontendmentor.io/solutions/qr-code-page-using-flexbox-7kIZhNsiWW)
+- Live Site URL: [Live site](https://qrcodeflexbox.netlify.app/)
 
 ## My process
 
@@ -29,3 +30,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+## Author
+
+- Website - [Add your name here](https://www.ern4o.com)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/salmon982)
